@@ -2,12 +2,11 @@
 
 Replace these with your own build badges!
 
-[![Build Status](https://travis-ci.com/csci-e-29-dev/pset-0-starter.svg?token=aaaaa&branch=master)](https://travis-ci.com/csci-e-29-dev/pset-0-starter)
+[![Build Status](https://travis-ci.com/doganmeh/vicente_pset0.svg?branch=master)](https://travis-ci.com/doganmeh/vicente_pset0.svg?branch=master)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/aaaaa/maintainability)](https://codeclimate.com/repos/aaaaa/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/1a089d0b2fb0dcfc81c3/maintainability)](https://codeclimate.com/github/doganmeh/vicente_pset0/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/aaaaa/test_coverage)](https://codeclimate.com/repos/aaaaa/test_coverage)
-
+[![Test Coverage](https://api.codeclimate.com/v1/badges/1a089d0b2fb0dcfc81c3/test_coverage)](https://codeclimate.com/github/doganmeh/vicente_pset0/test_coverage)
 ## Objectives
 
 * Demonstrate mastery of basic python syntax (functions, classes, etc)
